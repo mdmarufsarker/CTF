@@ -1,0 +1,3 @@
+strings -a -d static
+
+picoCTF{d15a5m_t34s3r_98d35619}
