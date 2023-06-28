@@ -1,0 +1,3 @@
+nc jupiter.challenges.picoctf.org 64287
+
+picoCTF{nEtCat_Mast3ry_284be8f7}
