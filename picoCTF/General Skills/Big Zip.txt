@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/4121803/how-can-i-use-grep-to-find-a-word-inside-a-folder
+
+┌──(kali㉿kali)-[~/Downloads]
+└─$ grep -nr 'picoCTF' .
+
+-n            Show relative line number in the file
+'yourString*' String for search, followed by a wildcard character
+-r            Recursively search subdirectories listed
+.             Directory for search (current directory)
+
+or
+
+grep -r 'picoCTF'
+
+big-zip-files/folder_pmbymkjcya/folder_cawigcwvgv/folder_ltdayfmktr/folder_fnpfclfyee/whzxrpivpqld.txt:1:information on the record will last a billion years. Genes and brains and books encode picoCTF{gr3p_15_m4g1c_ef8790dc}

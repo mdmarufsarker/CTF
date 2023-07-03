@@ -1,0 +1,18 @@
+nc jupiter.challenges.picoctf.org 29221
+
+Let us see how data is stored
+container
+Please give the 01100011 01101111 01101110 01110100 01100001 01101001 01101110 01100101 01110010 as a word.
+...
+you have 45 seconds.....
+
+Input:
+container
+Please give me the  143 150 141 151 162 as a word.
+Input:
+chair
+Please give me the 66616c636f6e as a word.
+Input:
+falcon
+You've beaten the challenge
+Flag: picoCTF{learning_about_converting_values_00a975ff}
