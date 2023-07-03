@@ -1,0 +1,6 @@
+convert bDNhcm5fdGgzX3IwcDM1 into Base64
+
+
+bDNhcm5fdGgzX3IwcDM1
+
+picoCTF{l3arn_th3_r0p35}

@@ -1,0 +1,17 @@
+nc saturn.picoctf.net 55823
+Please md5 hash the text between quotes, excluding the quotes: 'Japanese'
+Answer: 
+f32ced6a9ba164c4b3c047fd1d7c882e
+f32ced6a9ba164c4b3c047fd1d7c882e
+Correct.
+Please md5 hash the text between quotes, excluding the quotes: 'bad haircut'
+Answer: 
+cdefceb62375fcec3f327834a99e9a58
+cdefceb62375fcec3f327834a99e9a58
+Correct.
+Please md5 hash the text between quotes, excluding the quotes: 'Americans'
+Answer: 
+165813154207e6cacef030430ea09616
+165813154207e6cacef030430ea09616
+Correct.
+picoCTF{4ppl1c4710n_r3c31v3d_674c1de2}

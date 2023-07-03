@@ -1,3 +1,7 @@
 0x70
 
 picoCTF{p}
+
+$ python
+>>> chr(0x70)
+'p'
