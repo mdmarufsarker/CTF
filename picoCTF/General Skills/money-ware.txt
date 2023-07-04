@@ -1,0 +1,3 @@
+According to the hint, we can look up the bitcoin address on bitcoin abuse database. For this challenge, I looked it up on bitcoinabuse.com.
+
+picoCTF{Petya}
