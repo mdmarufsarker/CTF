@@ -1,0 +1,7 @@
+cat ciphertext 
+picoCTF{dspttjohuifsvcjdpoabrkttds}
+
+27 --> decoding --> caesar to plaintext
+ohbnBSE{crossingtherubiconzaqjsscr}
+
+picoCTF{crossingtherubiconzaqjsscr}
