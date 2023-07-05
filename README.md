@@ -27,26 +27,18 @@
 ## CTF Platforms
 
 - [CTFTime](https://ctftime.org/)
-- [CTFlearn](https://ctflearn.com/)
+<!-- - [CTFlearn](https://ctflearn.com/) -->
 - [HackTheBox](https://www.hackthebox.eu/)
-- [RootMe](https://www.root-me.org/)
 - [PicoCTF](https://picoctf.com/)
-- [OverTheWire](https://overthewire.org/wargames/)
 - [VulnHub](https://www.vulnhub.com/)
 - [TryHackMe](https://tryhackme.com/)
-- [HackThisSite](https://www.hackthissite.org/)
-- [Ringzer0](https://ringzer0ctf.com/)
-- [Hacker101](https://ctf.hacker101.com/)
 - [HackerOne](https://www.hackerone.com/)
 - [Hacking-Lab](https://www.hacking-lab.com/index.html)
 - [HackerEarth](https://www.hackerearth.com/)
 - [HackerRank](https://www.hackerrank.com/)
-- [Hacker.org](https://www.hacker.org/)
 - [HackerSploit](https://hackersploit.org/)
-- [HackerTarget](https://hackertarget.com/)
 - [Hacker](https://www.hacker101.com/)
 - [Hacksplaining](https://www.hacksplaining.com/)
-- [HackThis](https://www.hackthis.co.uk/)
 
 ## YouTube Channels
 
@@ -58,24 +50,15 @@
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
-- [Hak5Darren](https://www.youtube.com/channel/UCNHWs2j7TtGTbqdiwZ14IBQ)
-- [Hak5Mubix](https://www.youtube.com/channel/UCJ1-Nos1XFTfvJ3T_3Y8l5Q)
 - [Hak5Shannon](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
-- [Hak5Snubs](https://www.youtube.com/channel/UCn7J4Xx31PwW4krl9NFU7rw)
-- [Hak5ThreatWire](https://www.youtube.com/channel/UCegeOSHqLzbUtxxjJg2T9vg)
-- [Hak5Technolust](https://www.youtube.com/channel/UCNHWs2j7TtGTbqdiwZ14IBQ)
-- [Hak5TechnolustNet](https://www.youtube.com/channel/UCNHWs2j7TtGTbqdiwZ14IBQ)
 
 ## Books
 
 - [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
 - [The Hacker Playbook 2: Practical Guide To Penetration Testing](https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
 - [The Hacker Playbook: Practical Guide To Penetration Testing](https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1494932636)
-- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting/dp/8126568775)
 - [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn/dp/1118662091)
 - [The Mobile Application Hacker's Handbook](https://www.amazon.in/Mobile-Application-Hackers-Handbook-Allan/dp/1118958500)
-- [The Database Hacker's Handbook: Defending Database Servers](https://www.amazon.in/Database-Hackers-Handbook-Defending-Servers/dp/8126528773)
-- [The Shellcoder's Handbook: Discovering and Exploiting Security Holes](https://www.amazon.in/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/8126528773)
 
 ## Blogs
 
@@ -85,10 +68,8 @@
 - [Pentest Tools](https://pentest-tools.com/blog/)
 - [Pentest Geek](https://www.pentestgeek.com/)
 - [Pentest Lab](https://pentestlab.blog/)
-- [Pentest Home Lab](https://pentestlab.blog/2012/12/24/pentest-home-lab/)
 - [Pentest Book](https://pentestbook.six2dez.com/)
 - [Pentest Blog](https://pentest.blog/)
 - [Pentest Monkey](https://pentestmonkey.net/)
 - [Pentest People](https://www.pentestpeople.com/blog/)
 - [Pentest Tools](https://pentest-tools.com/blog/)
-- [Pentest Stories](https://penteststories.com/)
