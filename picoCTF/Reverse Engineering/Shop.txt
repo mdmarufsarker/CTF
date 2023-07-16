@@ -1,0 +1,15 @@
+nc mercury.picoctf.net 11371
+
+choose 0 or 1
+
+its the tricky part
+the value should be negative. It could be anything like -100 or -50 etc.
+
+then your amount will increased. 
+
+then select 2 to get the flag
+
+copy the flag and convert it to ascii
+that means decimal to ascii
+
+picoCTF{b4d_brogrammer_b8d7271f}
